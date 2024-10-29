@@ -39,8 +39,8 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository** (if applicable):
 
    ```bash
-   git clone https://github.com/yourusername/spy-cat-agency.git
-   cd spy-cat-agency
+   git clone https://github.com/axlrose023/test-task_DevTodays.git
+   cd developsToday
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
@@ -54,12 +54,6 @@ Follow these steps to set up the project locally:
 
    ```bash
    pip install -r requirements.txt
-   ```
-
-   If you don't have a `requirements.txt` file, you can install the dependencies manually:
-
-   ```bash
-   pip install django djangorestframework requests
    ```
 
 4. **Apply Migrations**:
